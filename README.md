@@ -25,7 +25,7 @@ To seamlessly place a person into a given background by:
 - Python
 - OpenCV
 - NumPy
--Streamlit
+- Streamlit
 
 
 
@@ -44,14 +44,14 @@ How to Run Locally
 
 Clone the Repository
    
-   git clone https://github.com/kashishsingla25/person-scene-integration.git
-   cd person-scene-integration
+   - git clone https://github.com/kashishsingla25/person-scene-integration.git
+   - cd person-scene-integration
 Create a Virtual Environment (Optional)
-   python -m venv venv
-   source venv/bin/activate  # or venv\Scripts\activate on Windows
+   - python -m venv venv
+   - source venv/bin/activate  # or venv\Scripts\activate on Windows
 
 Install Dependencies
-   pip install -r requirements.txt
+  - pip install -r requirements.txt
 
 Run the App
-   streamlit run main.py
+  - streamlit run main.py
